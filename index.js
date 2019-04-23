@@ -1,1 +1,7 @@
-console.log("Sucess")
+import path from 'path'
+
+
+const log = (string) => {
+    console.log(string)
+} 
+ log("Hello world123")
